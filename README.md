@@ -7,6 +7,6 @@ les ventes (appelées “Transactions”);
 la liste des clients;
 la liste des produits
 ## Compétances évaluées 
-# Nettoyer et organiser un jeu de données
-# maitriser les notions fondamentales des statistiques 
-# réaliser des analyses descriptives
+Nettoyer et organiser un jeu de données
+Maitriser les notions fondamentales des statistiques 
+Réaliser des analyses descriptives
