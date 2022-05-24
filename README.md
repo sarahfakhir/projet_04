@@ -10,3 +10,5 @@ la liste des produits
 Nettoyer et organiser un jeu de données
 Maitriser les notions fondamentales des statistiques 
 Réaliser des analyses descriptives
+## Prérequis DATA Analyste
+Pour mener à bien le proget "analyse des ventes", il est nécessaire de savoir manipuler le language de programmation Python téléchargeable sur https://pythonprogramming.net/ . Aussi  pour la data science, il est essentielle d'utiliser la distribution python " Anaconda". 
