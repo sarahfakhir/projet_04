@@ -1,6 +1,6 @@
 # Projet_04
 ## Résumé 
-L'analyse des ventes d'une entreprise  est un projet d'analyses de données. Celles-ci ont été traitées par Python. Les instruments d'analyse statistique descriptive (moyenne, médiane, variance, représentations graphiques, tests de corrélation, analyse bivariée  et univariées).
+L'analyse des ventes d'une entreprise  est un projet d'analyses de données. Celles-ci ont été traitées par Python. Les instruments d'analyse statistique descriptive sont les suivantes : moyenne, médiane, variance, représentations graphiques, tests de corrélation, analyse bivariée  et univariées.
 ## Les données 
 Le proget nous a fournit les bases de données (fichier CSV) suivants :  
 les ventes (appelées “Transactions”);
